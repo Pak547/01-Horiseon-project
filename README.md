@@ -1,4 +1,8 @@
-# Code Refactor Starter CoG
+# Code Refactor Starter
+
+This readme contains a pre-written starter code and following instructions I refactored the code to follow semantic rules. 
+I also made the website more accessable and easier to read.
+
 
 Gave the title a proper name in html
 
